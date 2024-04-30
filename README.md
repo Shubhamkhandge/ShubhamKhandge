@@ -3,7 +3,7 @@
   <h1 align="center">Hey there! 👋  </h1>
 </p>
 
-<p align="center"> 👋 Let me know if you are here! Sign my guestbook(https://github.com/Shubhamkhandge/Shubham-Khandge/issues) by leaving a comment below 💟   </p>
+<p align="center"> 👋 Let me know if you are here! Sign my guestbook(https://github.com/Shubhamkhandge/ShubhamKhandge/issues/1) by leaving a comment below 💟   </p>
 
 <p align="center">
   <img align="center" width="25%" src="/assets/dino.png" alt="header"/>

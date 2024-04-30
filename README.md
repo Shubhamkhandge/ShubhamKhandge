@@ -6,12 +6,6 @@
 <p align="center"> 👋 Let me know if you are here! Sign my guestbook(https://github.com/Shubhamkhandge/ShubhamKhandge/issues/1) by leaving a comment below 💟   </p>
 
 <p align="center">
-  <img align="center" width="25%" src="/assets/dino.png" alt="header"/>
-  <br>
-  <h5 align="center">console.log('Forever Explorer');</h5>
-</p>
-
-<p align="center">
   <img src="assets/Banner.png" alt="Banner"/>
 </p>
 
@@ -34,51 +28,18 @@
 <table align="center">
   <tr>
     <td>
-      <a title="Portfolio" href="https://ohmyscript.com/">
-        <img src="https://iamskb258154309.files.wordpress.com/2020/07/cropped-circle-cropped.png" width="50" height="50" />
-      </a>
-    </td>
-    <td>
-      <a title="DEV.to" href="https://dev.to/shravan20">
-        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
-      </a>
-    </td>
-    <td>
-      <a title="Medium" href="https://medium.com/@shravan20">
-        <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg" width="45" height="45" />
-      </a>
-    </td>
-    <td>
-      <a title="LinkedIn" href="https://www.linkedin.com/in/shravan20/">
+      <a title="LinkedIn" href="https://www.linkedin.com/in/shubham-khandge/">
         <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a title="Email" href="mailto:shravan@ohmyscript.com">
         <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
       </a>
     </td>
-    <td>
-      <a title="Stackoverflow" href="https://stackoverflow.com/users/11899809/shravan20">
-        <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
-      </a>
-    </td>
-    <td>
-      <a title="Twitter" href="https://x.com/shravan20_">
-        <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-outline-64.png" width="50" height="50" />
-      </a>
-    </td>
-    <td>
-      <!--https://cdn4.iconfinder.com/data/icons/35-education-and-school-4/512/08_Calenday-512.png-->
-      <a title="cal.com" href="https://cal.com/shravan20">        
-        <img src="https://3620107743-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpmUOqZjfGqNkiPmqgnMv%2Fuploads%2F9Qaq1hlaTcqKfrc9k4OG%2Fimage.png?alt=media&token=1ffe8530-19ff-4aea-b020-a99cdc224ce1" width="50" height="50" />
-      </a>
-    </td>
-    <td>
-      <a title="GitLab" href="https://gitlab.com/shravan_20">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-1024.png" width="50" height="50" />
-      </a>
-    </td>
+    </tr>
 </table>
 
 <br>

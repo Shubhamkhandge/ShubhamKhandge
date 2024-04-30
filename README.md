@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>
-      <a title="Email" href="mailto:shravan@ohmyscript.com">
+      <a title="Email" href="mailto:shubhamkhandge2820@gmail.com">
         <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
       </a>
     </td>
@@ -45,7 +45,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/shravan20" target="_blank">
+  <a href="https://github.com/ShubhamKhandge" target="_blank">
     <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
   </a>
   

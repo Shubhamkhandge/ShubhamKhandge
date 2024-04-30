@@ -1,18 +1,16 @@
 <samp>
 <p align="center">
-  <h1 align="center">Hey there! 👋  </h1>
+  <h1 align="center">Hey there! 👋, I am Shubham Khandge  </h1>
 </p>
-
-<p align="center"> 👋 Let me know if you are here! Sign my guestbook(https://github.com/Shubhamkhandge/ShubhamKhandge/issues/1) by leaving a comment below 💟   </p>
 
 <p align="center">
   <img src="assets/Banner.png" alt="Banner"/>
 </p>
-
+<p align="center"> 👋 Let me know if you are here! Sign my guestbook(https://github.com/Shubhamkhandge/ShubhamKhandge/issues/1) by leaving a comment below 💟   </p>
 
 <br>
 
-- 🔭 I possess a solid foundation and showcase a robust skill set in `Java`, `JavaScript`, `Python`, and `C++`,`C`, complemented by experience in  `Spring`, `Spring Boot`, `Hibernate`, and `Angular`, `React JS` frameworks.
+- 🔭 I possess a solid foundation and showcase a robust skill set in `Java`, `JavaScript` and `C`, complemented by experience in  `Spring`, `Spring Boot`, `Hibernate`, and `Angular`, `React JS` frameworks.
   
 - 🐾 Exploring every nook and corner of the Full Stack Developer domain; I find it quite interesting in terms of problem-solving.
   
@@ -22,7 +20,18 @@
   
 - 📫 How to reach me: `shubhamkhandge@gmail.com`
 - ⚡ Fun fact: Brain is forever a nerd.
-
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/shubham-khandge/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"               alt="Shubham Khandge" height="30" width="40" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/shubham-khandge/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"               alt="Shubham Khandge" height="30" width="40" />
+  </a>
+</p>
 <br><br>
 
 <table align="center">

@@ -1,11 +1,11 @@
 <samp>
 <p align="center">
+  <img src="assets/Banner.png" alt="Banner"/>
+</p>
+<p align="center">
   <h1 align="center">Hey there! 👋, I am Shubham Khandge  </h1>
 </p>
 
-<p align="center">
-  <img src="assets/Banner.png" alt="Banner"/>
-</p>
 <p align="center"> 👋 Let me know if you are here! Sign my guestbook(https://github.com/Shubhamkhandge/ShubhamKhandge/issues/1) by leaving a comment below 💟   </p>
 
 <br>

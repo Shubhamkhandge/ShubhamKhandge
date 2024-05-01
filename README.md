@@ -18,10 +18,7 @@
   
 - 👯 I’m looking to collaborate and work on new Open Source / Web / App Based projects.
   
-- 📫 How to reach me: `shubhamkhandge@gmail.com`
-    <a href="https://www.linkedin.com/in/shubham-khandge/" target="blank">
-        <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/0bafca8be51a7290244f4219e42b4a530a5dfefb/public/icons/gmail/gmail-horizontal.svg"               alt="Shubham Khandge" height="50" width="80" />
-    </a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/shubham-khandge/" target="blank">`shubhamkhandge@gmail.com`  </a>
 - ⚡ Fun fact: Brain is forever a nerd.
 - Connect with me in LinkedIn: <a href="https://www.linkedin.com/in/shubham-khandge/" target="blank">
     <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/0bafca8be51a7290244f4219e42b4a530a5dfefb/public/icons/linkedin/linkedin-horizontal.svg"               alt="Shubham Khandge" height="50" width="80" />
